@@ -1341,7 +1341,6 @@ dependencies = [
  "chrono",
  "httpmock",
  "jsonwebtoken",
- "p256",
  "rand",
  "reqwest",
  "rsa",
